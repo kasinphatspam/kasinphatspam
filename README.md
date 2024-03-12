@@ -11,4 +11,4 @@ https://www.facebook.com/profile.php?id=61553899375978
 
 ### Frameworks and lanugages
 
-<img src="https://skillicons.dev/icons?i=git,kotlin,swift,nodejs,nestjs,ts,js,c,postgres,mysql,docker" />
+<img src="https://skillicons.dev/icons?i=git,golang,kotlin,swift,ts,js,c,nodejs,nestjs,postgres,mysql,docker" />
