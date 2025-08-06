@@ -5,8 +5,9 @@
 - 🌱 I’m continuously learning and growing as a Full Stack Developer  
 
 ### Freelance
-I undertake programming projects for students or small-scale tasks. You can contact me through facebook page.
-https://www.facebook.com/profile.php?id=61553899375978
+I undertake programming projects for students or small-scale tasks. You can contact me
+FB: Kasinphat Ketchom
+TEL: +66653246900
 
 ### Frameworks and lanugages
 
