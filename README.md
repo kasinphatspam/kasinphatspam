@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 📚 I'm currently studying Computer Engineering at KMUTT
-- 🔭 I’m currently working on DekHewTung
-- 🌱 I’m currently learning Full Stack Developer
-
+- 🎓 I’ve graduated in Computer Engineering from KMUTT  
+- 💼 I’m currently working at **Lodash Venture** as a **Junior Full Stack Developer**  
+- 🌱 I’m continuously learning and growing as a Full Stack Developer  
 
 ### Freelance
 I undertake programming projects for students or small-scale tasks. You can contact me through facebook page.
