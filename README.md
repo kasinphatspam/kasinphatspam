@@ -5,7 +5,7 @@
 - 🌱 I’m continuously learning and growing as a Full Stack Developer  
 
 ### Freelance
-I undertake programming projects for students or small-scale tasks. You can contact me
+I undertake programming projects for students or small-scale tasks. You can contact me\n
 FB: Kasinphat Ketchom
 TEL: +66653246900
 
